@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ![Profile views](https://gpvc.arturio.dev/PopeJuliusII)
+
+### API Shield:
+
+![Binarysearch.io](https://binarysearch.com/api/shields/Pactolus)
