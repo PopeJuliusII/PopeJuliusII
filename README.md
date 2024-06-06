@@ -92,17 +92,17 @@ https://github.com/search?q=user%3APopeJuliusII+language%3Ajavascript
             </div>
         </div>
         <div style="display: flex;">
-            <div style="flex: 1; display: flex-column; justify-content: flex-end; align-items: center;">
-                <p>2. <i>Uncle Vanya</i> by Anton Chekhov</p>
-                <p>I initially read this in preparation for Andrew Scott's one-man adaptation, <i>Vanya</i>, and the play did not disappoint. Checkhov pairs levity with a melancholic meditation on the human condition. It is well worth a read.</p>
+            <div style="flex: 1; display: flex; align-items: center;">
+                <img src="assets/images/books/chekhov.jpg" alt="Uncle Vanya by Anton Chekhov" style="border: 10px solid #000; padding: 10px; background: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); max-width: 100px;">
             </div>
             <div style="display: flex; flex-direction: column; align-items: center; margin: 0px 20px 0px 20px">
                 <div style="width: 10px; height: 100px; background-color: black;"></div>
                 <div style="width: 20px; height: 20px; background-color: black; border-radius: 100%;"></div>
                 <div style="width: 10px; height: 100px; background-color: black;"></div>
             </div>
-            <div style="flex: 1; display: flex; align-items: center;">
-                <img src="assets/images/books/chekhov.jpg" alt="Uncle Vanya by Anton Chekhov" style="border: 10px solid #000; padding: 10px; background: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); max-width: 100px;">
+            <div style="flex: 1; display: flex-column; justify-content: flex-end; align-items: center;">
+                <p>2. <i>Uncle Vanya</i> by Anton Chekhov</p>
+                <p>I initially read this in preparation for Andrew Scott's one-man adaptation, <i>Vanya</i>, and the play did not disappoint. Checkhov pairs levity with a melancholic meditation on the human condition. It is well worth a read.</p>
             </div>
         </div>
         <div style="display: flex;">
@@ -120,17 +120,17 @@ https://github.com/search?q=user%3APopeJuliusII+language%3Ajavascript
             </div>
         </div>
         <div style="display: flex;">
-            <div style="flex: 1; display: flex-column; justify-content: flex-end; align-items: center;">
-                <p>4. <i>The Outsider</i> by Albert Camus</p>
-                <p>Camus' absurdist philosophy speaks to me on a personal level and <i>The Outsider</i> is a great introduction to it. Pairs well with a side of Bartleby.</p>
+            <div style="flex: 1; display: flex; align-items: center;">
+                <img src="assets/images/books/camus.jpg" alt="The Outsider by Albert Camus" style="border: 10px solid #000; padding: 10px; background: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); max-width: 100px;">
             </div>
             <div style="display: flex; flex-direction: column; align-items: center; margin: 0px 20px 0px 20px">
                 <div style="width: 10px; height: 100px; background-color: black;"></div>
                 <div style="width: 20px; height: 20px; background-color: black; border-radius: 100%;"></div>
                 <div style="width: 10px; height: 100px; background-color: black;"></div>
             </div>
-            <div style="flex: 1; display: flex; align-items: center;">
-                <img src="assets/images/books/camus.webp" alt="The Outsider by Albert Camus" style="border: 10px solid #000; padding: 10px; background: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); max-width: 100px;">
+            <div style="flex: 1; display: flex-column; justify-content: flex-end; align-items: center;">
+                <p>4. <i>The Outsider</i> by Albert Camus</p>
+                <p>Camus' absurdist philosophy speaks to me on a personal level and <i>The Outsider</i> is a great introduction to it. Pairs well with a side of Bartleby.</p>
             </div>
         </div>
         <div style="display: flex;">
