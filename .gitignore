@@ -1,0 +1,3 @@
+# Ignore all DS_Store files at every level.
+.DS_Store
+
