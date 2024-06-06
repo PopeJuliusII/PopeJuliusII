@@ -104,7 +104,7 @@ https://github.com/search?q=user%3APopeJuliusII+language%3Ajavascript
             </div>
             <div style="flex: 1; display: flex-column; justify-content: flex-end; align-items: center;">
                 <p>2. <i>Uncle Vanya</i> by Anton Chekhov</p>
-                <p>I initially read this in preparation for Andrew Scott's one-man adaptation, <i>Vanya</i>, and the play did not disappoint. Checkhov pairs levity with a melancholic meditation on the human condition. It is well worth a read.</p>
+                <p>I initially read this in preparation for Andrew Scott's one-man adaptation, <i>Vanya</i>, and the play did not disappoint. Chekhov pairs levity with a melancholic meditation on the human condition. It is well worth a read.</p>
             </div>
         </div>
         <div style="display: flex;">
@@ -118,7 +118,7 @@ https://github.com/search?q=user%3APopeJuliusII+language%3Ajavascript
             </div>
             <div style="flex: 1; display: flex-column; align-items: center;">
                 <p>3. <i>King Lear</i> by William Shakespeare</p>
-                <p>Unquestionably one of Shakespeare's greatest works, <i>King Lear</i> is a masterful tapestry of betrayal, redemption and tragic irony. The Bard's ability to interweave the various plots is mesmerising. It is also a play which generally does not translate well to the stage, so reading it is definitely a viable option.</p>
+                <p>Unquestionably one of Shakespeare's greatest works, <i>King Lear</i> is a masterful tapestry of betrayal, redemption and tragic irony. The Bard's ability to interweave the various plots is mesmerising. It is also a play that generally does not translate well to the stage, so reading it is definitely a viable option.</p>
             </div>
         </div>
         <div style="display: flex;">
@@ -132,7 +132,7 @@ https://github.com/search?q=user%3APopeJuliusII+language%3Ajavascript
             </div>
             <div style="flex: 1; display: flex-column; justify-content: flex-end; align-items: center;">
                 <p>4. <i>The Outsider</i> by Albert Camus</p>
-                <p>Camus' absurdist philosophy speaks to me on a personal level and <i>The Outsider</i> is a great introduction to it. Pairs well with a side of Bartleby.</p>
+                <p>Camus' absurdist philosophy speaks to me on a personal level and <i>The Outsider</i> is a great introduction to it. Pairs well with a side of <i>Bartleby</i>.</p>
             </div>
         </div>
         <div style="display: flex;">
@@ -145,7 +145,7 @@ https://github.com/search?q=user%3APopeJuliusII+language%3Ajavascript
             </div>
             <div style="flex: 1; display: flex-column; align-items: center;">
                 <p>5. <i>A Tale of Two Cities</i> by Charles Dickens</p>
-                <p>Dickens' is unmatched in his ability to paint a scene. An example of can be found in Book 1, Chapter 5, the scene with the spilling of the wine cask. If you want to get lost in artful prose, this is the book for you.</p> 
+                <p>Dickens is unmatched in his ability to paint a scene. An example can be found in Book 1, Chapter 5, the scene with the spilling of the wine cask. If you want to get lost in artful prose, this is the book for you.</p> 
             </div>
         </div>
     </div>
