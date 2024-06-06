@@ -27,7 +27,9 @@ The colours were adapted with https://onlinepngtools.com/change-png-color
 -->
 <p align="center">
     <a href="https://edgarb.io" target="_blank"><img src="assets/images/icons/website.png" alt="Website" width=30 height=30 style="margin: 10px;" title="Website"></a>
-    <a href="https://linkedin.com/in/edgar-loves-python/" target="_blank"><img src="assets/images/icons/linkedin.png" alt="LinkedIn" width=25 height=25 style="margin: 12.5px;" title="LinkedIn"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/edgar-loves-python/" target="_blank"><img src="assets/images/icons/linkedin.png" alt="LinkedIn" width=30 height=30 style="margin: 10px;" title="LinkedIn"></a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:edgarb@tuta.io" target="_blank"><img src="assets/images/icons/e-mail.png" alt="Contact Me" width=30 height=30 style="margin: 10px;" title="Contact Me"></a>
 </p>
 
